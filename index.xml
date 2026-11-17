@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Kevin 的 LLM Wiki</title>
+      <link>https://junichoon.github.io/kevinwiki</link>
+      <description>最近的 10 條筆記 on Kevin 的 LLM Wiki</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>ai</title>
+    <link>https://junichoon.github.io/kevinwiki/ai/</link>
+    <guid>https://junichoon.github.io/kevinwiki/ai/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:54 GMT</pubDate>
+  </item><item>
+    <title>finance</title>
+    <link>https://junichoon.github.io/kevinwiki/finance/</link>
+    <guid>https://junichoon.github.io/kevinwiki/finance/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:54 GMT</pubDate>
+  </item><item>
+    <title>fitness</title>
+    <link>https://junichoon.github.io/kevinwiki/fitness/</link>
+    <guid>https://junichoon.github.io/kevinwiki/fitness/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:54 GMT</pubDate>
+  </item><item>
+    <title>food</title>
+    <link>https://junichoon.github.io/kevinwiki/food/</link>
+    <guid>https://junichoon.github.io/kevinwiki/food/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:54 GMT</pubDate>
+  </item><item>
+    <title>infra</title>
+    <link>https://junichoon.github.io/kevinwiki/infra/</link>
+    <guid>https://junichoon.github.io/kevinwiki/infra/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:54 GMT</pubDate>
+  </item><item>
+    <title>tools</title>
+    <link>https://junichoon.github.io/kevinwiki/tools/</link>
+    <guid>https://junichoon.github.io/kevinwiki/tools/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:54 GMT</pubDate>
+  </item><item>
+    <title>標籤索引</title>
+    <link>https://junichoon.github.io/kevinwiki/tags/</link>
+    <guid>https://junichoon.github.io/kevinwiki/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:54 GMT</pubDate>
+  </item><item>
+    <title>社群影片下載方法</title>
+    <link>https://junichoon.github.io/kevinwiki/tools/video-download</link>
+    <guid>https://junichoon.github.io/kevinwiki/tools/video-download</guid>
+    <description><![CDATA[ 社群影片下載方法 各平台影片怎麼下載：伺服器（Claude）能做的，與手機自己做的。 各平台狀況總表 平台伺服器 vdl（Claude）手機自己下載Facebook✅ 已設定登入 cookie，受限影片也可fdown 等網站Instagram❌ 需 IG 登入 cookie（尚未提供）iPhone IG 下載捷徑、snapinstaYouTube❌ 伺服器被要求「確認不是機器人」YouTube 下載捷徑、cobaltThreads❌ yt-dlp 不支援 ThreadsiPhone《Threads 下載器》捷徑（見下方）X / TikTok未測試（yt-dlp 有支援）X 下載捷徑、SaveT... ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:01 GMT</pubDate>
+  </item><item>
+    <title>優可線上看 YOKAR</title>
+    <link>https://junichoon.github.io/kevinwiki/tools/yokar</link>
+    <guid>https://junichoon.github.io/kevinwiki/tools/yokar</guid>
+    <description><![CDATA[ 優可線上看 YOKAR 台灣個人開發的追番網站，整合 YouTube 官方頻道的動漫、電影、戲劇，免登入可看。 網址：yokar.net/ 開發者：陳名嘉；2026-11 上線，測試中 片源：YouTube 官方頻道嵌入（Muse 木棉花、Ani-One Asia 等），網站本身不放影片 規模（2026-11）：約 731 部動漫、2,159 部電影 篩選：類型、地區、作品形式、年份、連載狀態 功能需登入瀏覽、搜尋、播放否訂閱追番、同步觀看紀錄是（Email / Google）新集數通知（Email 約 30 分鐘彙整 / Discord）是留言、評分是 注意 首頁「正版授權」= 片源是官方頻... ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:01 GMT</pubDate>
+  </item><item>
+    <title>rclone 連接 Google Drive</title>
+    <link>https://junichoon.github.io/kevinwiki/tools/rclone-google-drive</link>
+    <guid>https://junichoon.github.io/kevinwiki/tools/rclone-google-drive</guid>
+    <description><![CDATA[ rclone 連接 Google Drive 在沒有瀏覽器的伺服器上存取 Google Drive；需自建 OAuth 用戶端 ID。 為什麼要自建用戶端 ID rclone 內建的共用用戶端 ID 將在 2026 年內停用 自建後連線不受影響，且在 Google 帳號的第三方存取清單中顯示為灰色預設圖示（官方共用版有藍色 rclone 標誌） 流程摘要 Google Cloud Console 建專案 → 啟用 Google Drive API OAuth 同意畫面：外部、新增三個範圍（docs、drive、drive.metadata.readonly）→ 儲存 目標對象：加測試使用者 →... ]]></description>
+    <pubDate>Tue, 17 Nov 2026 08:25:01 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
